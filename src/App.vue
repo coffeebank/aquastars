@@ -17,6 +17,11 @@
       </transition>
     </main>
 
+
+    <audio id="radioid" preload="auto">
+      <source src="https://listen.moe/fallback" type="audio/mp3" />
+    </audio>
+
   </div>
 </template>
 

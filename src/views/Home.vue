@@ -6,9 +6,6 @@
     <p class="text-2xl pt-4 pb-8">The best up and coming Cali idol group! 😉</p>
 
     <div id="radiohook">
-      <audio id="radioid" preload="auto">
-        <source src="https://listen.moe/fallback" type="audio/mp3" />
-      </audio>
       <img alt="logo" class="hoverscale cursor-pointer rounded-full mx-auto my-4 shadow-lg" style="width:50%;max-width:128px;height:auto;" src="@/assets/brian.png" onclick="document.getElementById('radioid').play()">
     </div>
 
