@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "471d849a6d51e58a6dc4",
+    "revision": "af8f4e94a94365b3aa16",
     "url": "/aquastars/css/app.f697155b.css"
   },
   {
@@ -8,20 +8,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aquastars/img/apple-touch-icon.b505e5fb.png"
   },
   {
+    "revision": "52fc6af8869eabc8ce8abeb532f1bcaf",
+    "url": "/aquastars/img/brian.52fc6af8.png"
+  },
+  {
     "revision": "329171680863382209e85fcdfae9aa17",
     "url": "/aquastars/img/elijah-ekdahl-8XxF2kYHIgo-unsplash.32917168.jpg"
   },
   {
-    "revision": "af7e13857e4cfabd1cbc7768338bcf27",
+    "revision": "43b8885abe7ca3bcefa4dff1f1caacfe",
     "url": "/aquastars/index.html"
   },
   {
-    "revision": "3e9a3c8493eb655a68dc",
-    "url": "/aquastars/js/about.4a5cfbe2.js"
+    "revision": "f4fc98b989455bb84137",
+    "url": "/aquastars/js/about.6b61ba96.js"
   },
   {
-    "revision": "471d849a6d51e58a6dc4",
-    "url": "/aquastars/js/app.4c3d0df5.js"
+    "revision": "af8f4e94a94365b3aa16",
+    "url": "/aquastars/js/app.0a143f22.js"
   },
   {
     "revision": "4f9b0c986c2ebb522a0f",
