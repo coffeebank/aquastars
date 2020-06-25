@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/aquastars/precache-manifest.516aaf8804fc083744bc2db61c24bf55.js"
+  "/aquastars/precache-manifest.59c6ea30c372c7cd71814a4651744685.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "aquastars"});
