@@ -1,15 +1,23 @@
 <template>
   <div class="home">
-    <div class="pt-12"></div>
-    <img alt="logo" class="hoverscale vclickspinny cursor-pointer rounded-full mx-auto my-4 shadow-lg" style="width:50%;max-width:128px;height:auto;" src="@/assets/apple-touch-icon.png">
-    <h1 class="text-5xl font-bold">✨ Aqua Stars ⚝</h1>
-    <p class="text-2xl pt-4 pb-8">The best up and coming Cali idol group! 😉</p>
 
-    <div id="radiohook">
+    <!-- <div class="pt-12"></div>
+    <img alt="logo" class="hoverscale vclickspinny cursor-pointer rounded-full mx-auto my-4 shadow-lg" style="width:50%;max-width:128px;height:auto;" src="@/assets/apple-touch-icon.png"> -->
+
+    <div class="p-12 bg-stage flex flex-wrap items-center select-none" style="height:50vh;min-height:25rem;"> <!-- onclick: start radio -->
+      <div class="w-full">
+        <h1 class="text-5xl font-bold">✨ Aqua Stars ⚝</h1>
+        <p class="text-2xl pt-4 pb-8">The best up and coming Cali idol group! 😉</p>
+      </div>
+    </div>
+
+    <!-- <p>text</p><p>text</p><p>text</p><p>text</p><p>text</p><p>text</p><p>text</p><p>text</p><p>text</p><p>text</p><p>text</p><p>text</p><p>text</p><p>text</p><p>text</p><p>text</p><p>text</p><p>text</p><p>text</p><p>text</p><p>text</p><p>text</p><p>text</p><p>text</p><p>text</p><p>text</p><p>text</p><p>text</p><p>text</p><p>text</p><p>text</p><p>text</p><p>text</p> -->
+
+    <!-- <div id="radiohook">
       <img alt="logo" class="hoverscale cursor-pointer rounded-full mx-auto my-4 shadow-lg" style="width:50%;max-width:128px;height:auto;" src="@/assets/brian.png" onclick="document.getElementById('radioid').play()">
     </div>
 
-    <p class="text-xl italic">"@snowy claire You're part of my Idol group now"<br>- Brian Walker</p>
+    <p class="text-xl italic">"@snowy claire You're part of my Idol group now"<br>- Brian Walker</p> -->
 
   </div>
 </template>

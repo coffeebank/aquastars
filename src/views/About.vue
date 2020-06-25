@@ -10,6 +10,7 @@
         <li>https://unsplash.com/photos/8XxF2kYHIgo</li>
         <li>https://listen.moe</li>
         <li>https://markus.oberlehner.net/blog/vue-router-page-transitions/</li>
+        <li>https://github.com/TylerPottsDev/vuejs-music-app/</li>
       </ul>
   </div>
 </template>
