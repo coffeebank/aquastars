@@ -44,8 +44,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aquastars/assets/site.webmanifest"
   },
   {
-    "revision": "1855e5925ee3371438e3",
-    "url": "/aquastars/css/app.38eae132.css"
+    "revision": "bf5aace00ab57cd76a9a",
+    "url": "/aquastars/css/app.0674d537.css"
+  },
+  {
+    "revision": "4bb1a55479d61843b89a2fdafa7849b3",
+    "url": "/aquastars/favicon-16x16.png"
   },
   {
     "revision": "b505e5fbee6718ba941f332561a64fa1",
@@ -56,7 +60,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aquastars/img/elijah-ekdahl-8XxF2kYHIgo-unsplash.32917168.jpg"
   },
   {
-    "revision": "66d25ff8d16738f453f9e988aa7ef330",
+    "revision": "633c214fe86b16d803ba70fdc69ac51f",
     "url": "/aquastars/index.html"
   },
   {
@@ -64,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aquastars/js/about.320a1c26.js"
   },
   {
-    "revision": "1855e5925ee3371438e3",
-    "url": "/aquastars/js/app.ba8625ac.js"
+    "revision": "bf5aace00ab57cd76a9a",
+    "url": "/aquastars/js/app.bcde8555.js"
   },
   {
     "revision": "47f2dda543f90c8bddb1",
